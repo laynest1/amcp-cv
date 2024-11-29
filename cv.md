@@ -1,5 +1,8 @@
 # Пивень Кирилл
 
+<img width="345" alt="Снимок экрана 2024-11-29 в 23 42 23" src="https://github.com/user-attachments/assets/a842a800-67a4-4aad-98a3-b8cee817df87">
+
+
 ## Контакты
 
 Телефон: +7 (988) 489-54-46<br>
