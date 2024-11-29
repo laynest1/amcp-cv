@@ -31,7 +31,7 @@ C++(базовый уровень)<br>
 Pascal(базовый уровень)<br>
 
 ## Ранее выполненные проекты
-CV - https://github.com/laynest1/amcp-cv/tree/gh-pages
+[CV](https://github.com/laynest1/amcp-cv?tab=readme-ov-file)
 
 
 ## Владение иностранными языками
