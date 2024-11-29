@@ -2,10 +2,14 @@
 
 ## Контакты
 
-Телефон: +7 (988) 489-54-46
-Email: piven.20.06@mail.ru
-Telegram: @pivenkiri
-GitHub: https://github.com/laynest1
+Телефон: +7 (988) 489-54-46<br>
+
+Email: piven.20.06@mail.ru<br>
+
+Telegram: @pivenkiri<br>
+
+GitHub: https://github.com/laynest1<br>
+
 
 ## Краткая информация
 
@@ -15,10 +19,14 @@ GitHub: https://github.com/laynest1
 
 ## Навыки
 
-Языки программирования:
-Python(базовый уровень)
-C++(базовый уровень)
-Pascal(базовый уровень)
+Языки программирования:<br>
+
+Python(базовый уровень)<br>
+
+C++(базовый уровень)<br>
+
+Pascal(базовый уровень)<br>
+
 
 ## Владение иностранными языками
 
