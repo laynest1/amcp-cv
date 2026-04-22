@@ -1,6 +1,6 @@
 # Пивень Кирилл
 
-<img width="345" alt="залупа.png" src="https://github.com /user-attachments/assets/a842a800-67a4-4aad-98a3-b8cee817df87">
+<img width="345" alt="залупа.png" src="https://github.com/user-attachments/assets/a842a800-67a4-4aad-98a3-b8cee817df87">
 
 
 ## Контакты
