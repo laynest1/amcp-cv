@@ -1,9 +1,8 @@
 # Пивень Кирилл
 
-<img width="345" alt="залупа.png" src="https://github.com/user-attachments/assets/a842a800-67a4-4aad-98a3-b8cee817df87">
+<img width="640" height="640" alt="залупа" src="https://github.com/user-attachments/assets/553b1f74-1470-49c4-96fe-6fad003203a6" />
 
 
-## Контакты
 
 Телефон: +7 (988) 489-54-46<br>
 
